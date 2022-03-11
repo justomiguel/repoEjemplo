@@ -1,2 +1,2 @@
 # repoEjemplo
-Este repo es para mostrar un ejemplo
+Este repo es para mostrar un ejemplo para la clase de LPP
